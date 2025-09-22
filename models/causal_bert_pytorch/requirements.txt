@@ -1,6 +1,6 @@
 sklearn==0.0
 scipy==1.4.1
 torch==1.6.0
-keras==2.6.0
-transformers==4.12.2
+keras==3.11.3
+transformers==4.53.0
 pandas==0.25.3
